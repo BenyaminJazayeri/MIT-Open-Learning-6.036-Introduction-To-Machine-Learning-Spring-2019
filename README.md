@@ -25,7 +25,7 @@ Course Link: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T
 | Sequential Models | State machines, Markov decision processes, reinforcement learning, recurrent neural networks |
 | Applied ML | Recommender systems, decision trees, nearest neighbors |
 
-## Coursework
+## Coursework Done
 
 | Type | Count |
 |------|-------|
